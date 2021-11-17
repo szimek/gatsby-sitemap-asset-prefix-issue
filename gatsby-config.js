@@ -5,6 +5,7 @@ module.exports = {
     author: `@gatsbyjs`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
   },
+  assetPrefix: `/assets`,
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-image`,
